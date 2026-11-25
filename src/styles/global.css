@@ -1,0 +1,8 @@
+/* Single entry so postcss-import combines these before Tailwind runs:
+   markdown.css and others @apply component classes defined in main.css. */
+@import "./main.css";
+@import "./markdown.css";
+@import "./transition.css";
+@import "./scrollbar.css";
+@import "./expressive-code.css";
+@import "./photoswipe.css";

@@ -7,15 +7,15 @@ export const tr: Translation = {
 	[Key.archive]: "Arşiv",
 	[Key.search]: "Ara",
 
-	[Key.tags]: "Taglar",
-	[Key.categories]: "Katagoriler",
+	[Key.tags]: "Etiketler",
+	[Key.categories]: "Kategoriler",
 	[Key.recentPosts]: "Son Paylaşımlar",
 
 	[Key.comments]: "Yorumlar",
 
 	[Key.untitled]: "Başlıksız",
-	[Key.uncategorized]: "Katagorisiz",
-	[Key.noTags]: "Tag Bulunamadı",
+	[Key.uncategorized]: "Kategorisiz",
+	[Key.noTags]: "Etiket Yok",
 
 	[Key.wordCount]: "kelime",
 	[Key.wordsCount]: "kelime",
